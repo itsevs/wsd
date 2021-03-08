@@ -8,3 +8,5 @@ You will find:
 An introduction to Word Sense Disambiguation
 An introduction to PageRank and Personalized Page Rank
 A review of a paper in which the algorithm Personalized Page Rank was used for WSD in the biomedical domain
+
+-in spanish-
